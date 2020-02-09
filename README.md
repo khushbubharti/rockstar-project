@@ -1,6 +1,11 @@
 # Rockstar Pandas Project
 
 This repository contains the material (notebooks, data) for Rockstar Pandas Project. This project is a part of acadmic coursework for PG Diploma in Data Science & Analytics at CCSD, J.C. Bose University of Science & Technology, Faridabad, India.
+________________________________________
+
+# Problem Statement
+This dataset contains the cost of 14 different devices including smartphones, laptops, game consoles, tablets, smart devices, and other gadgets, across 72 different countries, ranking the countries on the average cost of all products researched. The dataset was downloaded from Linio.com in December 2016.
+________________________________________
 
 ## Requirements to run this Project
 
