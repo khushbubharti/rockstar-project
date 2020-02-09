@@ -29,13 +29,13 @@ To view the content on nbviewer:
 
 ## Contributors
 
-NITISH VIG
-EXPERT INSTRUCTOR & PROJECT MENTOR
-CCSD, J.C. Bose University of Science & Technology
+NITISH VIG <br/>
+EXPERT INSTRUCTOR & PROJECT MENTOR <br/>
+CCSD, J.C. Bose University of Science & Technology <br/>
 Faridabad, India (121006)
 
-KHUSHBU BHARTI
-19021271008
-Post Graduate Diploma in Data Science & Analytics, 2019-20
-CCSD, J.C. Bose University of Science & Technology
+KHUSHBU BHARTI <br/>
+19021271008 <br/>
+Post Graduate Diploma in Data Science & Analytics, 2019-20 <br/>
+CCSD, J.C. Bose University of Science & Technology <br/>
 Faridabad, India (121006)
