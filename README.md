@@ -5,6 +5,13 @@ ________________________________________
 
 # Problem Statement
 This dataset contains the cost of 14 different devices including smartphones, laptops, game consoles, tablets, smart devices, and other gadgets, across 72 different countries, ranking the countries on the average cost of all products researched. The dataset was downloaded from Linio.com in December 2016.
+
+1. remove "$" symbol from the entire data
+2. what is the trend followed in Apple series.
+3. What device has the most unpredictable trend?
+4. Use dataframe slicing to return countries : "Spain, Pakistan, Colombia, Germany" with devices : "Xbox one,Portable charger".
+5. Country earning most and least, by selling them.
+6. Trend followed between "iPhone and Android"
 ________________________________________
 
 ## Requirements to run this Project
